@@ -64,17 +64,13 @@ pip install numpy pandas scikit-learn matplotlib
 
 1.  Clone this repository:
     ```sh
-    git clone [Your Repository URL]
+    git clone https://github.com/Amir-Sa02/Customer-Segmentation-with-K-Means-Clustering.git
     ```
 2.  Navigate to the project directory:
     ```sh
-    cd [Your Repository Name]
+    cd Customer-Segmentation-with-K-Means-Clustering
     ```
 3.  Run the Jupyter Notebook or the Python script containing the code.
     ```sh
-    jupyter notebook your_notebook_name.ipynb
-    ```
-    or
-    ```sh
-    python your_script_name.py
+    jupyter notebook mall-customers-clustering.ipynb
     ```
